@@ -1,4 +1,4 @@
-Welcome to my Flipkart Product Review Scraper — a powerful, user-friendly web application that allows you to instantly extract and analyse product reviews from Flipkart. Whether you're a data enthusiast, product analyst, or simply someone who loves insights, this tool helps you dive deep into what customers are really saying.
+Welcome to my Flipkart Product Review Scraper- a powerful, user friendly web application that allows you to instantly extract and analyse product reviews from Flipkart. Whether you're a data enthusiast, product analyst, or simply someone who loves insights, this tool helps you dive deep into what customers are really saying.
 
 Features-
 
