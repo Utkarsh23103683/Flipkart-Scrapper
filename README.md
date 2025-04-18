@@ -17,7 +17,9 @@ Features-
 Technologies Used-
 
 Frontend- HTML, CSS
+
 Backend- Python (Flask)
+
 Scraping- BeautifulSoup, Requests, urllib
 
 Use Cases-
